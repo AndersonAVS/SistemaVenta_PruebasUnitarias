@@ -1,0 +1,256 @@
+CREATE DATABASE DBVENTA1
+USE DBVENTA1
+CREATE TABLE Menu(
+idMenu int primary key identity(1,1),
+descripcion varchar(30),
+idMenuPadre int references Menu(idMenu),
+icono varchar(30),
+controlador varchar(30),
+paginaAccion varchar(30),
+esActivo bit,
+fechaRegistro datetime default getdate()
+)
+
+CREATE TABLE Rol(
+idRol int primary key identity(1,1),
+descripcion varchar(30),
+esActivo bit,
+fechaRegistro datetime default getdate()
+)
+
+ 
+CREATE TABLE RolMenu(
+ idRolMenu int primary key identity(1,1),
+ idRol int references Rol(idRol),
+ idMenu int references Menu(idMenu),
+ esActivo bit,
+ fechaRegistro datetime default getdate()
+ )
+
+
+CREATE TABLE Usuario(
+idUsuario int primary key identity(1,1),
+nombre varchar(50),
+correo varchar(50),
+telefono varchar(50),
+idRol int references Rol(idRol),
+urlFoto varchar(500),
+nombreFoto varchar(100),
+clave varchar(100),
+esActivo bit,
+fechaRegistro datetime default getdate()
+)
+
+
+CREATE TABLE Categoria(
+idCategoria int primary key identity(1,1),
+descripcion varchar(50),
+esActivo bit,
+fechaRegistro datetime default getdate()
+)
+
+CREATE TABLE Producto(
+idProducto int primary key identity(1,1),
+codigoBarra varchar(50),
+marca varchar(50),
+descripcion varchar(100),
+idCategoria int references Categoria(idCategoria),
+stock int,
+urlImagen varchar(500),
+nombreImagen varchar(100),
+precio decimal(10,2),
+esActivo bit,
+fechaRegistro datetime default getdate()
+)
+
+CREATE TABLE NumeroCorrelativo(
+idNumeroCorrelativo int primary key identity(1,1),
+ultimoNumero int,
+cantidadDigitos int,
+gestion varchar(100),
+fechaActualizacion datetime
+)
+
+CREATE TABLE TipoDocumentoVenta(
+idTipoDocumentoVenta int primary key identity(1,1),
+descripcion varchar(50),
+esActivo bit,
+fechaRegistro datetime default getdate()
+)
+
+CREATE TABLE Venta(
+idVenta int primary key identity(1,1),
+numeroVenta varchar(6),
+idTipoDocumentoVenta int references TipoDocumentoVenta(idTipoDocumentoVenta),
+idUsuario int references Usuario(idUsuario),
+documentoCliente varchar(10),
+nombreCliente varchar(20),
+subTotal decimal(10,2),
+impuestoTotal decimal(10,2),
+Total decimal(10,2),
+fechaRegistro datetime default getdate()
+)
+
+CREATE TABLE DetalleVenta(
+idDetalleVenta int primary key identity(1,1),
+idVenta int references Venta(idVenta),
+idProducto int,
+marcaProducto varchar(100),
+descripcionProducto varchar(100),
+categoriaProducto varchar(100),
+cantidad int,
+precio decimal(10,2),
+total decimal(10,2)
+)
+
+CREATE TABLE Negocio(
+idNegocio int primary key,
+urlLogo varchar(500),
+nombreLogo varchar(100),
+numeroDocumento varchar(50),
+nombre varchar(50),
+correo varchar(50),
+direccion varchar(50),
+telefono varchar(50),
+porcentajeImpuesto decimal(10,2),
+simboloMoneda varchar(5)
+)
+
+CREATE TABLE Configuracion(
+recurso varchar(50),
+propiedad varchar(50),
+valor varchar(60)
+)
+
+
+SELECT * FROM Rol
+
+--________________________________ INSERTAR ROLES ________________________________
+insert into rol(descripcion,esActivo) values
+('Administrador',1),
+('Empleado',1),
+('Supervisor',1)
+
+--________________________________ INSERTAR USUARIO ________________________________
+SELECT * FROM Usuario
+--La clave a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3 ----------> 123
+insert into Usuario(nombre,correo,telefono,idRol,urlFoto,nombreFoto,clave,esActivo) values
+('codigo estudiante','codigo@example.com','909090',1,'','','a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3',1)
+
+--________________________________ CONFI FIREBASE STORAGE________________________________________
+SELECT * FROM Configuracion
+insert into Configuracion(recurso,propiedad,valor) values
+('FireBase_Storage','email','codigo9000@gmail.com'),
+('FireBase_Storage','clave','codigo9000'),
+('FireBase_Storage','ruta','mitiendaonline-e61c8.appspot.com'),
+('FireBase_Storage','api_key','AIzaSyAsM6kT0uqwXWZc0ed9OHMFvz-seu2cljs'),
+('FireBase_Storage','carpeta_usuario','IMAGENES_USUARIO'),
+('FireBase_Storage','carpeta_producto','IMAGENES_PRODUCTO'),
+('FireBase_Storage','carpeta_logo','IMAGENES_LOGO')
+
+--________________________________ CONFI CORREO________________________________________
+insert into Configuracion(recurso,propiedad,valor) values
+('Servicio_Correo','correo','jhaes.r6@gmail.com'),
+('Servicio_Correo','clave','bwitmmhandwwwanj'),
+('Servicio_Correo','alias','MiTienda.com'),
+('Servicio_Correo','host','smtp.gmail.com'),
+('Servicio_Correo','puerto','587')
+
+--________________________________ INSERTAR NEGOCIO ________________________________
+select * from Negocio
+-- SOLO 1 - EDIT
+insert into Negocio(idNegocio,urlLogo,nombreLogo,numeroDocumento,nombre,correo,direccion,telefono,porcentajeImpuesto,simboloMoneda)
+values(1,'','','','','','','',0,'')
+
+SELECT * FROM Categoria
+
+INSERT INTO Categoria (descripcion, esActivo, fechaRegistro)
+VALUES 
+    ('Canastas', 1, '2024-05-19'),
+	('Floreros', 1, '2024-05-19'),
+	('Ramos', 1, '2024-05-19'),
+	('Cajas', 1, '2024-05-19'),
+	('Corporativo', 1, '2024-05-19'),
+	('Funebres', 1, '2024-05-19'),
+	('Amistad', 1, '2024-05-19'),
+	('Aniversarios', 1, '2024-05-19')
+
+--________________________________ INSERTAR TIPO DOCUMENTO VENTA ________________________________
+
+select * from TipoDocumentoVenta
+
+insert into TipoDocumentoVenta(descripcion,esActivo) values
+('Boleta',1),
+('Factura',1)
+
+--_______________________NUMERO CORRELATIVO ______________________
+select * from NumeroCorrelativo
+--000001
+insert into NumeroCorrelativo(ultimoNumero,cantidadDigitos,gestion,fechaActualizacion) values
+(0,6,'venta',getdate())
+
+--________________________________ INSERTAR MENUS ________________________________
+select * from Menu
+
+--*MENU PADRE
+insert into Menu(descripcion,icono,controlador,paginaAccion,esActivo) values
+('DashBoard','fas fa-fw fa-tachometer-alt','DashBoard','Index',1)
+
+insert into Menu(descripcion,icono,esActivo) values
+('Administraci�n','fas fa-fw fa-cog',1),
+('Inventario','fas fa-fw fa-clipboard-list',1),
+('Ventas','fas fa-fw fa-tags',1),
+('Reportes','fas fa-fw fa-chart-area',1)
+
+
+--*menu hijos Administracion
+insert into Menu(descripcion,idMenuPadre, controlador,paginaAccion,esActivo) values
+('Usuarios',2,'Usuario','Index',1),
+('Negocio',2,'Negocio','Index',1)
+
+
+--*menu hijos - Inventario
+insert into Menu(descripcion,idMenuPadre, controlador,paginaAccion,esActivo) values
+('Categorias',3,'Categoria','Index',1),
+('Productos',3,'Producto','Index',1)
+
+--*menu hijos - Ventas
+insert into Menu(descripcion,idMenuPadre, controlador,paginaAccion,esActivo) values
+('Nueva Venta',4,'Venta','NuevaVenta',1),
+('Historial Venta',4,'Venta','HistorialVenta',1)
+
+--*menu hijos - Reportes
+insert into Menu(descripcion,idMenuPadre, controlador,paginaAccion,esActivo) values
+('Reporte de Ventas',5,'Reporte','Index',1)
+
+
+UPDATE Menu SET idMenuPadre = idMenu where idMenuPadre is null
+
+
+--________________________________ INSERTAR ROL MENU ________________________________
+select * from Menu
+select * from RolMenu
+SELECT * FROM ROL
+
+--*administrador
+INSERT INTO RolMenu(idRol,idMenu,esActivo) values
+(1,1,1),
+(1,6,1),
+(1,7,1),
+(1,8,1),
+(1,9,1),
+(1,10,1),
+(1,11,1),
+(1,12,1)
+
+--*Empleado: Tiene acceso a Nueva venta e historial venta
+INSERT INTO RolMenu(idRol,idMenu,esActivo) values
+(2,10,1),
+(2,11,1)
+
+--*Supervisor: Va a poder acceder a Categor�as, Productos, Nueva venta e Historial de ventas
+INSERT INTO RolMenu(idRol,idMenu,esActivo) values
+(3,8,1),
+(3,9,1),
+(3,10,1),
+(3,11,1)

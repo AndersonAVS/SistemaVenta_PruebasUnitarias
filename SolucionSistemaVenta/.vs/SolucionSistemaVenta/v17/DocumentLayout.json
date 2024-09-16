@@ -1,0 +1,1686 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E93368B6-42A3-4093-B4AC-88F3FDE2D8C9}|PruebasTest\\PruebasTest.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\pruebastest\\usuarioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93368B6-42A3-4093-B4AC-88F3FDE2D8C9}|PruebasTest\\PruebasTest.csproj|solutionrelative:pruebastest\\usuarioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537957CF-ED72-4EEB-ADD6-30C2C55FE52C}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.dal\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537957CF-ED72-4EEB-ADD6-30C2C55FE52C}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\inegocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\inegocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\itipodocumentoventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\itipodocumentoventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.entity\\rolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|solutionrelative:sistemaventa.entity\\rolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.entity\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|solutionrelative:sistemaventa.entity\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.entity\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|solutionrelative:sistemaventa.entity\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\shared\\components\\menuusuario\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\shared\\components\\menuusuario\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\negocio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\negocio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\utilidades\\viewcomponents\\menuusuarioviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\utilidades\\viewcomponents\\menuusuarioviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmusuariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmusuariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|solutionrelative:sistemaventa.entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.entity\\tipodocumentoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|solutionrelative:sistemaventa.entity\\tipodocumentoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.entity\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|solutionrelative:sistemaventa.entity\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.entity\\numerocorrelativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|solutionrelative:sistemaventa.entity\\numerocorrelativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.entity\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|solutionrelative:sistemaventa.entity\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.entity\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|solutionrelative:sistemaventa.entity\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.entity\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|solutionrelative:sistemaventa.entity\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.entity\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|solutionrelative:sistemaventa.entity\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.entity\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824967FB-E3FC-470B-A076-8B1FE5336C7E}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|solutionrelative:sistemaventa.entity\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15D630A-F66A-4F8B-AB8C-CCC2E47A8E79}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15D630A-F66A-4F8B-AB8C-CCC2E47A8E79}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537957CF-ED72-4EEB-ADD6-30C2C55FE52C}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.dal\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537957CF-ED72-4EEB-ADD6-30C2C55FE52C}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537957CF-ED72-4EEB-ADD6-30C2C55FE52C}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.dal\\implementacion\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537957CF-ED72-4EEB-ADD6-30C2C55FE52C}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\implementacion\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537957CF-ED72-4EEB-ADD6-30C2C55FE52C}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.dal\\implementacion\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537957CF-ED72-4EEB-ADD6-30C2C55FE52C}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\implementacion\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537957CF-ED72-4EEB-ADD6-30C2C55FE52C}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.dal\\dbcontext\\dbventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537957CF-ED72-4EEB-ADD6-30C2C55FE52C}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\dbcontext\\dbventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\iventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\iventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\iutilidadesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\iutilidadesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\ifirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\ifirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\icorreoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\icorreoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\utilidadesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\utilidadesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\tipodocumentoventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\tipodocumentoventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\negocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\negocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\correoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\correoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\plantilla\\restablecerclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\plantilla\\restablecerclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\plantilla\\pdfventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\plantilla\\pdfventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\plantilla\\enviarclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\plantilla\\enviarclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\acceso\\restablecerclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\acceso\\restablecerclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\utilidades\\viewcomponents\\menuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\utilidades\\viewcomponents\\menuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\utilidades\\response\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\utilidades\\response\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\utilidades\\extensiones\\customassemblyloadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\utilidades\\extensiones\\customassemblyloadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\utilidades\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\utilidades\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmventassemana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmventassemana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmtipodocumentoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmtipodocumentoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmreporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmreporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmproductossemana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmproductossemana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmpdfventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmpdfventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmcambiarclave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmcambiarclave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\plantillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\plantillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\negociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\negociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\anderson vargas\\onedrive\\escritorio\\calidad 2\\solucionsistemaventa\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\PruebasTest\\UsuarioServiceTests.cs",
+              "RelativeDocumentMoniker": "PruebasTest\\UsuarioServiceTests.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\PruebasTest\\UsuarioServiceTests.cs",
+              "RelativeToolTip": "PruebasTest\\UsuarioServiceTests.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwIEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:22:08.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAwDsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:09:46.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRolService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IRolService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IRolService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IRolService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IRolService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:30:16.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T15:08:30.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITipoDocumentoVentaService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\ITipoDocumentoVentaService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\ITipoDocumentoVentaService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\ITipoDocumentoVentaService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\ITipoDocumentoVentaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:30:21.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INegocioService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\INegocioService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\INegocioService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\INegocioService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\INegocioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:30:03.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.DAL\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.DAL\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:32:57.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RolService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\RolService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\RolService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\RolService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\RolService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:27:17.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:30:30.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RolMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\RolMenu.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Entity\\RolMenu.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\RolMenu.cs",
+              "RelativeToolTip": "SistemaVenta.Entity\\RolMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:12:22.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Rol.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Entity\\Rol.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Rol.cs",
+              "RelativeToolTip": "SistemaVenta.Entity\\Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:11:51.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Venta.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Entity\\Venta.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Venta.cs",
+              "RelativeToolTip": "SistemaVenta.Entity\\Venta.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:36:46.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:20:13.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:20:44.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T17:06:22.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:19:34.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Negocio\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Negocio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Negocio\\Index.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Negocio\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:18:07.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAiwJUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:18:51.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Reporte\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Reporte\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Reporte\\Index.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Reporte\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:18:58.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:17:19.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Acceso\\Login.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Acceso\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Acceso\\Login.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Acceso\\Login.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwEwAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:17:03.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:17:59.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T15:16:47.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:17:30.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Home\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Home\\Perfil.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Home\\Perfil.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Home\\Perfil.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAGAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:17:44.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MenuUsuarioViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Utilidades\\ViewComponents\\MenuUsuarioViewComponent.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Utilidades\\ViewComponents\\MenuUsuarioViewComponent.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Utilidades\\ViewComponents\\MenuUsuarioViewComponent.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Utilidades\\ViewComponents\\MenuUsuarioViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:16:33.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VMRol.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMRol.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMRol.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMRol.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMRol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:12:43.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VMUsuarioLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMUsuarioLogin.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMUsuarioLogin.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMUsuarioLogin.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMUsuarioLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:13:58.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VMUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMUsuario.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMUsuario.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMUsuario.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:13:50.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Entity\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Usuario.cs",
+              "RelativeToolTip": "SistemaVenta.Entity\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:36:40.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TipoDocumentoVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\TipoDocumentoVenta.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Entity\\TipoDocumentoVenta.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\TipoDocumentoVenta.cs",
+              "RelativeToolTip": "SistemaVenta.Entity\\TipoDocumentoVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:36:33.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Producto.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Entity\\Producto.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Producto.cs",
+              "RelativeToolTip": "SistemaVenta.Entity\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:36:02.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NumeroCorrelativo.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\NumeroCorrelativo.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Entity\\NumeroCorrelativo.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\NumeroCorrelativo.cs",
+              "RelativeToolTip": "SistemaVenta.Entity\\NumeroCorrelativo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:35:53.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Negocio.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Negocio.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Entity\\Negocio.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Negocio.cs",
+              "RelativeToolTip": "SistemaVenta.Entity\\Negocio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:35:46.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Menu.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Entity\\Menu.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Menu.cs",
+              "RelativeToolTip": "SistemaVenta.Entity\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:35:39.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Entity\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\DetalleVenta.cs",
+              "RelativeToolTip": "SistemaVenta.Entity\\DetalleVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:35:30.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Configuracion.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Entity\\Configuracion.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Configuracion.cs",
+              "RelativeToolTip": "SistemaVenta.Entity\\Configuracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:35:18.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Categoria.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Entity\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.Entity\\Categoria.cs",
+              "RelativeToolTip": "SistemaVenta.Entity\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:35:12.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:35:02.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IVentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.DAL\\Interfaces\\IVentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Interfaces\\IVentaRepository.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.DAL\\Interfaces\\IVentaRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Interfaces\\IVentaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:33:04.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:32:31.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.DAL\\Implementacion\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Implementacion\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.DAL\\Implementacion\\GenericRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Implementacion\\GenericRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:31:58.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DBVENTAContext.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.DAL\\DBContext\\DBVENTAContext.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\DBContext\\DBVENTAContext.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.DAL\\DBContext\\DBVENTAContext.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\DBContext\\DBVENTAContext.cs",
+              "ViewState": "AQIAAL0BAAAAAAAAAAAowOUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:31:41.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IVentaService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IVentaService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IVentaService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IVentaService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IVentaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:30:42.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IUtilidadesService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IUtilidadesService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IUtilidadesService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IUtilidadesService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IUtilidadesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:30:37.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IProductoService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IProductoService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IProductoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:28:43.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IMenuService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IMenuService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IMenuService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IMenuService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IMenuService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:29:58.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IFireBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IFireBaseService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IFireBaseService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IFireBaseService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IFireBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:29:50.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IDashBoardService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IDashBoardService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IDashBoardService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IDashBoardService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IDashBoardService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:29:42.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ICorreoService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:29:37.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ICategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\ICategoriaService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\ICategoriaService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\ICategoriaService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\ICategoriaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:29:30.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\VentaService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\VentaService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\VentaService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\VentaService.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAkwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:27:43.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UtilidadesService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\UtilidadesService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\UtilidadesService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\UtilidadesService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\UtilidadesService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:27:37.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TipoDocumentoVentaService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\TipoDocumentoVentaService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\TipoDocumentoVentaService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\TipoDocumentoVentaService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\TipoDocumentoVentaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:27:23.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\ProductoService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\ProductoService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\ProductoService.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAowJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:27:10.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "NegocioService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\NegocioService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\NegocioService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\NegocioService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\NegocioService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:27:03.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\MenuService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\MenuService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\MenuService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\MenuService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:26:56.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FireBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:26:45.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DashBoardService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\DashBoardService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\DashBoardService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\DashBoardService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\DashBoardService.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAowI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:26:19.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CorreoService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:24:21.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\CategoriaService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\CategoriaService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAowFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:24:00.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Program.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswDEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:22:14.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\appsettings.json",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T16:22:03.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:21:15.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:21:08.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:20:50.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "RestablecerClave.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:18:39.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "PDFVenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\PDFVenta.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\PDFVenta.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\PDFVenta.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\PDFVenta.cshtml",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAswL0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:18:32.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "EnviarClave.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\EnviarClave.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\EnviarClave.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\EnviarClave.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\EnviarClave.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:18:21.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RestablecerClave.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Acceso\\RestablecerClave.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Acceso\\RestablecerClave.cshtml",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Acceso\\RestablecerClave.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Acceso\\RestablecerClave.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:17:10.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "MenuViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Utilidades\\ViewComponents\\MenuViewComponent.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Utilidades\\ViewComponents\\MenuViewComponent.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Utilidades\\ViewComponents\\MenuViewComponent.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Utilidades\\ViewComponents\\MenuViewComponent.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:16:44.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "GenericResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:16:16.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CustomAssemblyLoadContext.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Utilidades\\Extensiones\\CustomAssemblyLoadContext.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Utilidades\\Extensiones\\CustomAssemblyLoadContext.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Utilidades\\Extensiones\\CustomAssemblyLoadContext.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Utilidades\\Extensiones\\CustomAssemblyLoadContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:16:04.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Utilidades\\Automapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Utilidades\\Automapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Utilidades\\Automapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Utilidades\\Automapper\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAswOYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:14:29.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:14:17.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "VMVentasSemana.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVentasSemana.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVentasSemana.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVentasSemana.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVentasSemana.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:14:10.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "VMVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVenta.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVenta.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVenta.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:14:04.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "VMTipoDocumentoVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMTipoDocumentoVenta.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMTipoDocumentoVenta.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMTipoDocumentoVenta.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMTipoDocumentoVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:13:44.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "VMReporteVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMReporteVenta.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMReporteVenta.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMReporteVenta.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMReporteVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:11:20.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "VMProductosSemana.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMProductosSemana.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMProductosSemana.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMProductosSemana.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMProductosSemana.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:11:08.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "VMProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMProducto.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMProducto.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMProducto.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:10:59.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "VMNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMNegocio.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMNegocio.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMNegocio.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMNegocio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:10:23.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "VMMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMMenu.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMMenu.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMMenu.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:33:47.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "VMPDFVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMPDFVenta.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMPDFVenta.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMPDFVenta.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMPDFVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:34:13.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "VMDetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMDetalleVenta.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMDetalleVenta.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMDetalleVenta.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMDetalleVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:10:09.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "VMDashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMDashBoard.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMDashBoard.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMDashBoard.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMDashBoard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:09:57.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "VMCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMCategoria.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMCategoria.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMCategoria.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMCategoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:09:40.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "VMCambiarClave.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMCambiarClave.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMCambiarClave.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMCambiarClave.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMCambiarClave.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:09:29.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAiwIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:29:33.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:29:22.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAowIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:29:04.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:29:03.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "PlantillaController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\PlantillaController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\PlantillaController.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\PlantillaController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\PlantillaController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:28:53.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "NegocioController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\NegocioController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\NegocioController.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\NegocioController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\NegocioController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAswGYAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:28:43.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAkwJAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:28:35.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\DashBoardController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:28:23.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:28:16.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\Anderson Vargas\\OneDrive\\Escritorio\\CALIDAD 2\\SolucionSistemaVenta\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\AccesoController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAowG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:24:11.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
